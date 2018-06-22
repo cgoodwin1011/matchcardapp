@@ -1,0 +1,468 @@
+[{
+    "id": 1,
+    "name": "Two of Clubs",
+    "suit": "Clubs",
+    "value": 2,
+    "image": "http://charlesgoodwin.net/playingcards/2C.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 2,
+    "name": "Three of Clubs",
+    "suit": "Clubs",
+    "value": 3,
+    "image": "http://charlesgoodwin.net/playingcards/3C.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 3,
+    "name": "Four of Clubs",
+    "suit": "Clubs",
+    "value": 4,
+    "image": "http://charlesgoodwin.net/playingcards/4C.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 4,
+    "name": "Five of Clubs",
+    "suit": "Clubs",
+    "value": 5,
+    "image": "http://charlesgoodwin.net/playingcards/5C.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 5,
+    "name": "Six of Clubs",
+    "suit": "Clubs",
+    "value": 6,
+    "image": "http://charlesgoodwin.net/playingcards/6C.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 6,
+    "name": "Seven of Clubs",
+    "suit": "Clubs",
+    "value": 7,
+    "image": "http://charlesgoodwin.net/playingcards/7C.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 7,
+    "name": "Eight of Clubs",
+    "suit": "Clubs",
+    "value": 8,
+    "image": "http://charlesgoodwin.net/playingcards/8C.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 8,
+    "name": "Nine of Clubs",
+    "suit": "Clubs",
+    "value": 9,
+    "image": "http://charlesgoodwin.net/playingcards/9C.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 9,
+    "name": "Ten of Clubs",
+    "suit": "Clubs",
+    "value": 10,
+    "image": "http://charlesgoodwin.net/playingcards/10C.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 10,
+    "name": "Jack of Clubs",
+    "suit": "Clubs",
+    "value": 11,
+    "image": "http://charlesgoodwin.net/playingcards/JC.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 11,
+    "name": "Queen of Clubs",
+    "suit": "Clubs",
+    "value": 12,
+    "image": "http://charlesgoodwin.net/playingcards/QC.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 12,
+    "name": "King of Clubs",
+    "suit": "Clubs",
+    "value": 13,
+    "image": "http://charlesgoodwin.net/playingcards/KC.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 13,
+    "name": "Ace of Clubs",
+    "suit": "Clubs",
+    "value": 14,
+    "image": "http://charlesgoodwin.net/playingcards/AC.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 14,
+    "name": "Two of Diamonds",
+    "suit": "Diamonds",
+    "value": 2,
+    "image": "http://charlesgoodwin.net/playingcards/2D.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 15,
+    "name": "Three of Diamonds",
+    "suit": "Diamonds",
+    "value": 3,
+    "image": "http://charlesgoodwin.net/playingcards/3D.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 16,
+    "name": "Four of Diamonds",
+    "suit": "Diamonds",
+    "value": 4,
+    "image": "http://charlesgoodwin.net/playingcards/4D.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 17,
+    "name": "Five of Diamonds",
+    "suit": "Diamonds",
+    "value": 5,
+    "image": "http://charlesgoodwin.net/playingcards/5D.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 18,
+    "name": "Six of Diamonds",
+    "suit": "Diamonds",
+    "value": 6,
+    "image": "http://charlesgoodwin.net/playingcards/6D.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 19,
+    "name": "Seven of Diamonds",
+    "suit": "Diamonds",
+    "value": 7,
+    "image": "http://charlesgoodwin.net/playingcards/7D.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 20,
+    "name": "Eight of Diamonds",
+    "suit": "Diamonds",
+    "value": 8,
+    "image": "http://charlesgoodwin.net/playingcards/8D.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 21,
+    "name": "Nine of Diamonds",
+    "suit": "Diamonds",
+    "value": 9,
+    "image": "http://charlesgoodwin.net/playingcards/9D.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 22,
+    "name": "Ten of Diamonds",
+    "suit": "Diamonds",
+    "value": 10,
+    "image": "http://charlesgoodwin.net/playingcards/10D.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 23,
+    "name": "Jack of Diamonds",
+    "suit": "Diamonds",
+    "value": 11,
+    "image": "http://charlesgoodwin.net/playingcards/JD.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 24,
+    "name": "Queen of Diamonds",
+    "suit": "Diamonds",
+    "value": 12,
+    "image": "http://charlesgoodwin.net/playingcards/QD.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 25,
+    "name": "King of Diamonds",
+    "suit": "Diamonds",
+    "value": 13,
+    "image": "http://charlesgoodwin.net/playingcards/KD.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 26,
+    "name": "Ace of Diamonds",
+    "suit": "Diamonds",
+    "value": 14,
+    "image": "http://charlesgoodwin.net/playingcards/AD.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 27,
+    "name": "Two of Hearts",
+    "suit": "Hearts",
+    "value": 2,
+    "image": "http://charlesgoodwin.net/playingcards/2H.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 28,
+    "name": "Three of Hearts",
+    "suit": "Hearts",
+    "value": 3,
+    "image": "http://charlesgoodwin.net/playingcards/3H.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 29,
+    "name": "Four of Hearts",
+    "suit": "Hearts",
+    "value": 4,
+    "image": "http://charlesgoodwin.net/playingcards/4H.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 30,
+    "name": "Five of Hearts",
+    "suit": "Hearts",
+    "value": 5,
+    "image": "http://charlesgoodwin.net/playingcards/5H.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 31,
+    "name": "Six of Hearts",
+    "suit": "Hearts",
+    "value": 6,
+    "image": "http://charlesgoodwin.net/playingcards/6H.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 32,
+    "name": "Seven of Hearts",
+    "suit": "Hearts",
+    "value": 7,
+    "image": "http://charlesgoodwin.net/playingcards/7H.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 33,
+    "name": "Eight of Hearts",
+    "suit": "Hearts",
+    "value": 8,
+    "image": "http://charlesgoodwin.net/playingcards/8H.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 34,
+    "name": "Nine of Hearts",
+    "suit": "Hearts",
+    "value": 9,
+    "image": "http://charlesgoodwin.net/playingcards/9H.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 35,
+    "name": "Ten of Hearts",
+    "suit": "Hearts",
+    "value": 10,
+    "image": "http://charlesgoodwin.net/playingcards/10H.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 36,
+    "name": "Jack of Hearts",
+    "suit": "Hearts",
+    "value": 11,
+    "image": "http://charlesgoodwin.net/playingcards/JH.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 37,
+    "name": "Queen of Hearts",
+    "suit": "Hearts",
+    "value": 12,
+    "image": "http://charlesgoodwin.net/playingcards/QH.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 38,
+    "name": "King of Hearts",
+    "suit": "Hearts",
+    "value": 13,
+    "image": "http://charlesgoodwin.net/playingcards/KH.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 39,
+    "name": "Ace of Hearts",
+    "suit": "Hearts",
+    "value": 14,
+    "image": "http://charlesgoodwin.net/playingcards/AH.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 40,
+    "name": "Two of Spades",
+    "suit": "Spades",
+    "value": 2,
+    "image": "http://charlesgoodwin.net/playingcards/2S.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 41,
+    "name": "Three of Spades",
+    "suit": "Spades",
+    "value": 3,
+    "image": "http://charlesgoodwin.net/playingcards/3S.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 42,
+    "name": "Four of Spades",
+    "suit": "Spades",
+    "value": 4,
+    "image": "http://charlesgoodwin.net/playingcards/4S.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 43,
+    "name": "Five of Spades",
+    "suit": "Spades",
+    "value": 5,
+    "image": "http://charlesgoodwin.net/playingcards/5S.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 44,
+    "name": "Six of Spades",
+    "suit": "Spades",
+    "value": 6,
+    "image": "http://charlesgoodwin.net/playingcards/6S.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 45,
+    "name": "Seven of Spades",
+    "suit": "Spades",
+    "value": 7,
+    "image": "http://charlesgoodwin.net/playingcards/7S.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 46,
+    "name": "Eight of Spades",
+    "suit": "Spades",
+    "value": 8,
+    "image": "http://charlesgoodwin.net/playingcards/8S.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 47,
+    "name": "Nine of Spades",
+    "suit": "Spades",
+    "value": 9,
+    "image": "http://charlesgoodwin.net/playingcards/9S.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 48,
+    "name": "Ten of Spades",
+    "suit": "Spades",
+    "value": 10,
+    "image": "http://charlesgoodwin.net/playingcards/10S.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 49,
+    "name": "Jack of Spades",
+    "suit": "Spades",
+    "value": 11,
+    "image": "http://charlesgoodwin.net/playingcards/JS.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 50,
+    "name": "Queen of Spades",
+    "suit": "Spades",
+    "value": 12,
+    "image": "http://charlesgoodwin.net/playingcards/QS.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 51,
+    "name": "King of Spades",
+    "suit": "Spades",
+    "value": 13,
+    "image": "http://charlesgoodwin.net/playingcards/KS.jpg",
+    "back": "http://charlesgoodwin.net/playingcards/cardback3.jpg",
+    "faceUp": true
+  },
+  {
+    "id": 52,
+    "name": "Ace of Spades",
+    "suit": "Spades",
+    "value": 14,
+    "image": "http://charlesgoodwin.net/playingcards/AS.jpg",
+    "faceUp": true
+  }
+]
