@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import CardCard from "./components/CardCard";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
+import Explanation from "./components/Explanation";
 import cards from "./cards";
 import "./App.css";
 
@@ -52,8 +53,8 @@ class App extends Component {
     console.log("clicked card is ", id, "and its value is", value)
     // console.log("secondCard is", this.state.secondCard);
     if (this.state.firstCard == 0) {
-      this.state.firstCard = id;
-      this.state.firstCardValue = value;
+      this.state.firstCard.setState(id);
+      this.state.firstCardValue.setState(value);
     } else if (this.state.firstCard == id) {
       // do nothing
       return
@@ -68,8 +69,8 @@ class App extends Component {
         // this.removeCard(this.state.firstCard);
         // console.log("cards are ", this.state.cards);
       }
-      this.state.firstCard = 0;
-      this.state.firstCardValue = 0;
+      this.state.firstCard.setState(0);
+      this.state.firstCardValue.setState(0);
     }
     // console.log("firstCard is", this.state.firstCard);
 
@@ -79,7 +80,8 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
-        <Title>Playing Cards</Title>
+        <Title>Matching Cards</Title>
+        <Explanation>Click on two cards of the same value <br/>(e.g., a Jack of Diamonds and a Jack of Hearts)<br/> and they disappear.<br/><i>Surpisingly Soothing!</i></Explanation>
         {
           this.state.cards.map(card => (
           <CardCard
