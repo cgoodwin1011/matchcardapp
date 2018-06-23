@@ -53,8 +53,10 @@ class App extends Component {
     console.log("clicked card is ", id, "and its value is", value)
     // console.log("secondCard is", this.state.secondCard);
     if (this.state.firstCard == 0) {
-      this.state.firstCard.setState(id);
-      this.state.firstCardValue.setState(value);
+      // this.state.firstCard.setState(id);
+      this.state.firstCard = id;
+      // this.state.firstCardValue.setState(value);
+      this.state.firstCardValue = value;
     } else if (this.state.firstCard == id) {
       // do nothing
       return
@@ -69,8 +71,10 @@ class App extends Component {
         // this.removeCard(this.state.firstCard);
         // console.log("cards are ", this.state.cards);
       }
-      this.state.firstCard.setState(0);
-      this.state.firstCardValue.setState(0);
+      // this.state.firstCard.setState(0);
+      // this.state.firstCardValue.setState(0);
+      this.state.firstCard = 0;
+      this.state.firstCardValue = 0;
     }
     // console.log("firstCard is", this.state.firstCard);
 
